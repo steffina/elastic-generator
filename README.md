@@ -1,7 +1,8 @@
 # elastic-generator
 
 ## structure
-```{
+``` bash
+{
   "create": {
     "_index": "{index name}",
     "_type": "default",
@@ -10,9 +11,12 @@
 }
 {
   ... map of index
-}```
+}
+```
 
 ## how to run
-* Setup file json {index name}.json
-* 
-```./post.sh {index name}```
+* modify file {index name}.json as needed
+* then run:
+``` bash
+./post.sh {index name}
+```
