@@ -1,6 +1,9 @@
 # elastic-generator
 this will generate new documents on elastic
 
+## requirement
+* jq https://stedolan.github.io/jq/download/
+
 ## structure
 ``` bash
 {
@@ -17,6 +20,7 @@ this will generate new documents on elastic
 
 ## how to run
 * modify file {index name}.json as needed
+* djson
 * then run:
 ``` bash
 ./post.sh {index name}
