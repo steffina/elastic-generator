@@ -1,4 +1,5 @@
 # elastic-generator
+this will generate new documents on elastic
 
 ## structure
 ``` bash
