@@ -20,7 +20,7 @@ this will generate new documents on elastic
 
 ## how to run
 * modify file {index name}.json as needed
-* djson
+* file json will generate {index name}.min.json
 * then run:
 ``` bash
 ./post.sh {index name}
