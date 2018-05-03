@@ -1,0 +1,52 @@
+{
+  "create": {
+    "_index": "product",
+    "_type": "default",
+    "_id": "26396273"
+  }
+}
+{
+  "bestmatch_score4": 0,
+  "bestmatch_score5": 0,
+  "original_price": 0,
+  "bestmatch_score6": 0,
+  "flag": 1,
+  "shop": {
+    "id": 140,
+    "name": "Soul official",
+    "domain": "soulofficial",
+    "is_regular": true
+  },
+  "rating": 0,
+  "pacman_time_unix": 1525066521,
+  "bestmatch_score6_fixed": 0,
+  "discounted_price": 0,
+  "count_talk": 0,
+  "image_name": "default_v3-prdnophoto.png",
+  "cluster_id": 0,
+  "city_name": "Kota Semarang",
+  "count_review": 0,
+  "cashback_amount": 0,
+  "price": 1000000,
+  "review_score": 0,
+  "star_rating": 0,
+  "product_score": 0,
+  "id": 11,
+  "bestmatch_score4_fixed": 0,
+  "keyword": "Harry Potret",
+  "brand": {
+    "ID": 0
+  },
+  "count_transaction": 0,
+  "child_category_id": 15,
+  "url_path": "/soulofficial/narnia",
+  "bestmatch_score5_fixed": 0,
+  "server_id": 0,
+  "shop_id": 140,
+  "returnable": 0,
+  "price_level": 0,
+  "name": "Cobain Curl baruu",
+  "location": "Jakarta",
+  "position": 2,
+  "city_id": 212
+}
