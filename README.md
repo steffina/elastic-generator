@@ -23,5 +23,5 @@ this will generate new documents on elastic
 * file json will generate {index name}.min.json
 * then run:
 ``` bash
-./post.sh {index name}
+./post.sh {update|delete} {index name}
 ```
