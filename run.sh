@@ -8,7 +8,7 @@ if [[ "$1" != "" && "$2" != "" ]]; then
 	# minify json
 	echo "$(jq -c . < $2.json)" &> "$2.min.json"
 
-	URL="http://devel-solr.tkpd:9200"
+	URL="http://localhost:9200"
 	if [ "$TKPENV" = 'staging' ]; then
         	URL=`http://10.255.13.51:9200`
 	elif [ "$TKPENV" = 'production' ]; then
